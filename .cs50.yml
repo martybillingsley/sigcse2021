@@ -1,5 +1,4 @@
 lab50:
-  cmd: python
   files:
     - !exclude "*"
     - !include hello.py
