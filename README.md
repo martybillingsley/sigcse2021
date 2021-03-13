@@ -6,10 +6,10 @@ Instructions here
 
 More instructions
 
-{% spoiler %}
+{% hint %}
 The Answer to the Great Question... 
 Of Life, the Universe and Everything...
 Is...
 Forty-two.
-{% endspoiler %}
+{% hint %}
 
